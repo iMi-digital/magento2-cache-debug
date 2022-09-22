@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <system>
+            <full_page_cache>
+                <production_logging_enabled>0</production_logging_enabled>
+            </full_page_cache>
+        </system>
+    </default>
+</config>
