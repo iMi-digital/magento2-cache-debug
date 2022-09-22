@@ -1,6 +1,5 @@
 {
     "name": "imi/magento2-cache-debug",
-    "version": "1.0.0",
     "description": "A Magento 2 module that lets you add full page cache debug headers in production mode.",
     "type": "magento2-module",
     "require": {
